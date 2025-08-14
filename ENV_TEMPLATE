@@ -1,0 +1,9 @@
+# ENV_TEMPLATE
+
+MONGO_URI=mongodb://<your_db_host>:27017
+MONGO_DB=<your_database_name>
+MONGO_COLLECTION=<your_collection_name>
+
+# ThreatFox API Configuration
+
+THREATFOX_API_URL=https://threatfox.abuse.ch/export/json/recent/
