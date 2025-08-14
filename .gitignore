@@ -4,4 +4,4 @@ venv/
 *.pyc
 .DS_Store
 Thumbs.db
-*.lnk
+*.lnk"config.py" 
